@@ -22,4 +22,4 @@ function maskify(cc) {
     else { console.log(cc); }
 
 }
-maskify("a0123456789");
+maskify("LorencowiczMaciek");
